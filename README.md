@@ -46,5 +46,4 @@ Contributions to this project are welcome. If you encounter any bugs or have sug
 This project was developed as an assignment for an AI course by Professor Siham Benhaddou.
 
 
-## THE PROJECT RAPPORT EXISTS INSIDE THE project design screen for each form GOES BY THE NAME PROJECTRAPPORT AI yasmine ouazzine laptop diagnosis app 2024
-
+## THE PROJECT RAPPORT EXISTS INSIDE THE project design screen for each form GOES BY THE NAME PROJECTRAPPORT AI yasmine ouazzine laptop diagnosis app 2024 and the database yasminediagnostic.sql exists inside yasmine_systeme_expert 
