@@ -1,5 +1,7 @@
 # Java Expert System for PC Troubleshooting
 
+## THE PROJECT RAPPORT EXISTS INSIDE THE project design screen for each form GOES BY THE NAME PROJECTRAPPORT AI yasmine ouazzine laptop diagnosis app 2024
+
 ## Introduction
 
 This Java application project aims to develop an expert system to aid in diagnosing PC problems. The system will utilize a database to store diagnostic information and provide recommendations based on user input.
@@ -44,4 +46,5 @@ Contributions to this project are welcome. If you encounter any bugs or have sug
 This project was developed as an assignment for an AI course by Professor Siham Benhaddou.
 
 
+## THE PROJECT RAPPORT EXISTS INSIDE THE project design screen for each form GOES BY THE NAME PROJECTRAPPORT AI yasmine ouazzine laptop diagnosis app 2024
 
